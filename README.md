@@ -55,8 +55,7 @@ The zillow dataset only have median house value data that date back to as recent
 
 The payback period is the reciprocal of ROI. If you are interested you can [download the dashboard workbook here](https://github.com/Jiejanet/Airbnb-Investment-Pick-NYC) to interactively play with the plots. As we can see that the winner is zipcode 11434, adjoining JFK airport, has a payback period of 13 years. The runner up is zipcode 10305 on Staten Island where you can Ferry to Manhattan, with 14 years to payback. The third place goes to zipcode 10036 where Time Sqaure lit, hitting almost 20 years to payback.  Brooklyn area also has relatively better payback period.
 
-![Screen Shot 2020-05-04 at 11.12.20 AM](https://github.com/Jiejanet/Airbnb-Investment-Pick-NYC/1.png)
-
+![Payback Period](https://github.com/Jiejanet/Airbnb-Investment-Pick-NYC/blob/master/1.png)
 
 
 
@@ -75,7 +74,7 @@ There are 3 quantile occupancy rate for each zip code.
 2. 50 quantile (median occupancy rate for listings in that zip codes) 
 3. 75 quantile (the occupancy rate that the top 75% of occupied listings at least have) 
 
-![Screen Shot 2020-05-04 at 12.24.24 PM](https://github.com/Jiejanet/Airbnb-Investment-Pick-NYC/2.png)
+![ROI vs. Occupancy rate](https://github.com/Jiejanet/Airbnb-Investment-Pick-NYC/blob/master/2.png)
 
 The X axis is the 75 quantile of Occupancy and Y axis is the ROI. The color represents the 25 quantile, the greener it gets the lower the 25 quantile occupancy rate. the more pinkish the higher 25 quantile occupancy rate. The mark size shows the 50 quantile rate, the bigger it gets the higher the 50 quantile rate.
 

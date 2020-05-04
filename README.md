@@ -35,13 +35,12 @@ Short-term rental business is a well sought after business model. All the invest
 
 **Annual Rental Revenue:** median of daily rental price * 75% * 365
 
-2bedroom apartment can uausally charge higher amount and have higher occupancy rate compared with of 1bedroom apartment comparable square, because it will be able to accommodate more travelers, the per person booking cost for traveler would be lower.
+2bedroom apartment can usually charge higher amount and have higher occupancy rate compared with of 1bedroom apartment comparable square, because it will be able to accommodate more travelers, and the per person booking cost for traveler would be lower.
 
-Assuming median rental price for each zip code will not fluctuate a lot in one or two years, for each zip code, the median Airbnb rental price scraped in 2019 are used as an estimated daily rental revenue for that area. 
-
-Normal property type such as, condominium and apartment are more suitable investment for my friend, so I only included rental price of 2bedroom apartment-like properties to calculate the median daily rental revenue. Furthermore, the listing data were scraped from Airbnb, there would be some listing that hosts do not intend to rent out anymore but don't care deactivate the listing. These inactive listings are considered as invalid priced for rental market. Therefore, I only keep listings that have the last reviews at most 1 year ago and new listings with 0 review which has availability updated within 2 months in calculation.
-
-In addition, 75% occupancy rate is used to estimate the annually rental revenue, which is totally a no-brainer. That's why I deduced occupancy rate from rental data availability later in the article to weigh against.
+1. Assuming median rental price for each zip code will not fluctuate a lot in one or two years, for each zip code, the median Airbnb rental price scraped in 2019 are used as an estimated daily rental revenue for that area. 
+2. Normal property type such as, condominium and apartment are more suitable investment for my friend, so I only included rental price of 2bedroom apartment-like properties to calculate the median daily rental revenue. 
+3. Furthermore, the listing data were scraped from Airbnb, there would be some listing that hosts do not intend to rent out anymore but don't care deactivate the listing. These inactive listings are considered as invalid priced for rental market. Therefore, I only keep listings that have the last reviews at most 1 year ago and new listings with 0 review which has availability updated within 2 months in calculation.
+4. In addition, 75% occupancy rate is used to estimate the annually rental revenue, which is totally a no-brainer. That's why I deduced occupancy rate from rental data availability later in the article to weigh against.
 
 **Expenses and costs:** 0
 

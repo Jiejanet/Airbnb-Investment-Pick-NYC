@@ -52,7 +52,7 @@ The zillow dataset only have median house value data that date back to as recent
 
 
 
-####Payback Period 
+### Payback Period 
 
 The payback period is the reciprocal of ROI. If you are interested you can [download the dashboard workbook here](https://github.com/Jiejanet/Airbnb-Investment-Pick-NYC) to interactively play with the plots. As we can see that the winner is zipcode 11434, adjoining JFK airport, has a payback period of 13 years. The runner up is zipcode 10305 on Staten Island where you can Ferry to Manhattan, with 14 years to payback. The third place goes to zipcode 10036 where Time Sqaure lit, hitting almost 20 years to payback.  Brooklyn area also has relatively better payback period.
 

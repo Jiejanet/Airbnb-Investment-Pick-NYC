@@ -27,6 +27,8 @@ What would be considered a profitable region(zip code) for my friend to buy hous
 
 A 2bedroom apartment in a region where the occupancy rate for majority of the listings are at least above 50%, and the payback period are as short as possible among all the other locatioons at NYC.
 
+Short-term rental business is a well sought after business model. All the investors out there should have exploited all the possibility. It is reasonable to think that if there is zero Airbnb listing on certain locations, it probably suggests that those zipcodes are not suitable for Airbnb business. After filtering for zipcodes that have Airbnb rental price, the potential profitable zipcodes went down from 200+ toaround 30. 
+
 ### ROI
 
 **ROI = (Annual Rental Revenue – Expenses and Costs) / Property Price** 
